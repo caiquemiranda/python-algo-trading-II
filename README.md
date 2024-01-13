@@ -1,4 +1,4 @@
-# README - Técnicas de AlgoTrading
+# Técnicas de AlgoTrading
 
 ## Sobre o Repositório
 Este repositório é dedicado a explorar e compartilhar técnicas de AlgoTrading (Trading Algorítmico). O foco é desenvolver, testar e implementar estratégias de trading automatizadas utilizando a linguagem de programação Python.
